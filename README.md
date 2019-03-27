@@ -1,2 +1,3 @@
 # hello-world
-A good start of gitbub
+A good start of github
+
